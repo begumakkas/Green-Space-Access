@@ -12,8 +12,6 @@ To make these insights actionable, we’ve built an interactive dashboard that v
 
 <img src="./green_spaces/viz/assets/ProjectDemo.gif" alt="Demo" width="98%" />
 
-[▶️ Click here to watch the whole project video](https://www.youtube.com/watch?v=jTMRUfCFJLQ)
-
 
 ## Instructions for Running the Project
 
@@ -22,7 +20,7 @@ To execute this project, please follow these steps:
 1) Clone the repository.
 
 ``` 
-git clone https://github.com/uchicago-2025-capp30122/30122-project-treehuggers.git
+git clone git@github.com:begumakkas/Green-Space-Access.git
 ```
 
 2) Synchronize the libraries needed using ```uv```. This will install all the dependencies needed to run the code in the project.
