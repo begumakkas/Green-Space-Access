@@ -20,7 +20,7 @@ To execute this project, please follow these steps:
 1) Clone the repository.
 
 ``` 
-git clone git@github.com:begumakkas/Green-Space-Access.git
+git clone https://github.com/begumakkas/Green-Space-Access.git
 ```
 
 2) Synchronize the libraries needed using ```uv```. This will install all the dependencies needed to run the code in the project.
